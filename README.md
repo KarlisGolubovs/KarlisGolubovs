@@ -17,7 +17,7 @@ Here are a couple of my recent projects:
 ### TVNET_v.2 - Fake News App
 Repository: [KarlisGolubovs/TVNET_v.2](https://github.com/KarlisGolubovs/TVNET_v.2)
 
-Description: This project is a fake news app that aims to provide users with reliable news sources and help them identify and avoid fake news articles. It utilizes PHP and other technologies to fetch and analyze news data, ensuring accurate and trustworthy information.
+Description: This project is a fake news app that provides a steady stream of nonsense.
 
 ### GIPHY - GIF App
 Repository: [KarlisGolubovs/GIPHY](https://github.com/KarlisGolubovs/GIPHY)
