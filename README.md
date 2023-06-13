@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kārlis! 👋
 
 I'm a passionate Software Developer based in Latvia, specializing in PHP development. With a strong technical background and a knack for problem-solving, I'm always motivated to deliver high-quality solutions. 
 
