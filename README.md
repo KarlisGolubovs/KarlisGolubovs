@@ -5,14 +5,14 @@ I'm a passionate Software Developer based in Latvia, specializing in PHP develop
 
 About Me
 Continuous Learning
-🌱 I keep pace with the evolving tech landscape, updating my knowledge in PHP, Python, and contemporary JavaScript frameworks such as React and Next.js.
-Technical Expertise
-💻 Proficient in several programming languages and frameworks, including:
-PHP with specializations in Laravel and Symfony.
-JavaScript, with a focus on React and Next.js frameworks.
-Python, demonstrating versatility across different application domains.
-Coupled with this proficiency, I'm adept at developing scalable and efficient web applications that meet diverse requirements.
-💡 I am guided by a commitment to precision. Every line of code I write is a testament to my meticulous attention to detail and the high standards I set for project perfection.
+ 🌱 I keep pace with the evolving tech landscape, updating my knowledge in PHP, Python, and contemporary JavaScript frameworks such as React and Next.js.
+ Technical Expertise
+ 💻 Proficient in several programming languages and frameworks, including:
+ PHP with specializations in Laravel and Symfony.
+ JavaScript, with a focus on React and Next.js frameworks.
+ Python, demonstrating versatility across different application domains.
+ Coupled with this proficiency, I'm adept at developing scalable and efficient web applications that meet diverse requirements.
+ 💡 I am guided by a commitment to precision. Every line of code I write is a testament to my meticulous attention to detail and the high standards I set for project perfection.
 Efficient Time Management
 ⏱️ I prioritize effective time management, ensuring timely project delivery while upholding the pinnacle of quality standards.
 Embracing Challenges
