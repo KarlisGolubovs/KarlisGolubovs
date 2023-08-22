@@ -2,13 +2,21 @@
 
 I'm a passionate Software Developer based in Latvia, specializing in PHP development. With a strong technical background and a knack for problem-solving, I'm always motivated to deliver high-quality solutions. 
 
+
 About Me
-🌱 I'm constantly learning and expanding my skill set, staying abreast with the latest trends and best practices not just in PHP, but also in Python and modern JavaScript frameworks like React and Next.js.
-💻 My experience spans across various PHP frameworks such as Laravel and Symfony. I take pleasure in crafting scalable and efficient web applications that cater to diverse needs.
-⚙️ My technical prowess extends to database technologies like MySQL. Additionally, I have hands-on experience with front-end technologies including HTML, CSS, JavaScript, React, and Next.js, ensuring seamless and dynamic user experiences.
-💡 Precision is my mantra. I have a keen eye for detail and aim for perfection in every project, ensuring the code I write is both clean and maintainable.
-⏱️ Time management is one of my fortes. I ensure projects are delivered efficiently without compromising on the quality standards I set for myself and my work.
-🚀 Challenges excite me! I'm always on the lookout for opportunities that push the boundaries of my skills, enabling continuous growth and evolution as a developer.
+Continuous Learning
+🌱 I keep pace with the evolving tech landscape, updating my knowledge in PHP, Python, and contemporary JavaScript frameworks such as React and Next.js.
+Technical Expertise
+💻 Proficient in several programming languages and frameworks, including:
+PHP with specializations in Laravel and Symfony.
+JavaScript, with a focus on React and Next.js frameworks.
+Python, demonstrating versatility across different application domains.
+Coupled with this proficiency, I'm adept at developing scalable and efficient web applications that meet diverse requirements.
+💡 I am guided by a commitment to precision. Every line of code I write is a testament to my meticulous attention to detail and the high standards I set for project perfection.
+Efficient Time Management
+⏱️ I prioritize effective time management, ensuring timely project delivery while upholding the pinnacle of quality standards.
+Embracing Challenges
+🚀 I am invigorated by challenges and continuously seek opportunities that stretch the limits of my abilities, fostering my growth as a developer.
 ## Projects
 
 Here are a couple of my recent projects:
