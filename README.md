@@ -14,10 +14,10 @@ I'm a passionate Software Developer based in Latvia, specializing in PHP develop
 ## Projects
 
 Here are a couple of my recent projects:
-### TVNET_v.2 - Fake News App
-Repository: [KarlisGolubovs/TVNET_v.2](https://github.com/KarlisGolubovs/TVNET_v.2)
+### Cv-Factory - CV maker
+Repository: https://github.com/KarlisGolubovs/Cv-factory
 
-Description: This project is a fake news app that provides a steady stream of nonsense.
+Description: This project is a react project that serves as a cv maker.
 
 ### GIPHY - GIF App
 Repository: [KarlisGolubovs/GIPHY](https://github.com/KarlisGolubovs/GIPHY)
